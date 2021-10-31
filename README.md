@@ -1,6 +1,6 @@
 # p4 ANTICIPEZ LES BESOINS EN CONSOMMATION ÉLECTRIQUE DE BÂTIMENTS
-## Ressources : Relevés d’utilisation d’energie et d’emission par les bâtiments de la ville de 
-      Seattle : se basant sur des relevés minutieux des années 2015 et en 2016. 
+## Ressources : 
+Relevés d’utilisation d’energie et d’emission par les bâtiments de la ville de Seattle : se basant sur des relevés minutieux des années 2015 et en 2016. 
 
 ## Objectifs : 
 prédiction de la consommation d'Energie et des émissions en CO2  
